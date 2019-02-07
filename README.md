@@ -4,10 +4,6 @@
 
 I have seen more than hundreds hours of YouTube video on python I wanted to share my curated list. Also, YouTube video can be a good starting point when exploring notions or simply learning python.
 
-# Contents
-
-1. 
-
 # List 
 
 List of Youtubers and playlist about python. Each link refer to channel or playlist depending if the entire channel is dedicated to python or not.
@@ -28,7 +24,7 @@ List of Youtubers and playlist about python. Each link refer to channel or playl
 - [telusko](https://www.youtube.com/playlist?list=PLsyeobzWxl7poL9JTVyndKe62ieoN-MZ3) 
 - [codebasics](https://www.youtube.com/channel/UCh9nVJoWXmFb7sLApWGcLPQ) 
 
-## Youtube channel who gathering interesting video :
+## Youtube channels that gathering videos :
 
 - [Coding tech](https://www.youtube.com/channel/UCtxCXg-UvSnTKPOzLH4wJaQ)
 - [enthought](https://www.youtube.com/user/EnthoughtMedia) 
@@ -46,7 +42,7 @@ List of Youtubers and playlist about python. Each link refer to channel or playl
 
 ### PyCon countries
 
--[Australia](https://www.youtube.com/user/PyConAU) 
+- [Australia](https://www.youtube.com/user/PyConAU) 
 - [Canada](https://www.youtube.com/channel/UCclkPrurwUP_ajqi3vDTNDg)
 - [Balkan](https://www.youtube.com/channel/UC4Zfal_sduHM2sIT5Mm9cJA) 
 - [Israel](https://www.youtube.com/channel/UC-SbPEAZ4Ik2cowdR_Wyfag) 
