@@ -38,7 +38,6 @@ List of Youtubers and playlist about python. Each link refer to channel or playl
 - [2016](https://www.youtube.com/channel/UCwTD5zJbsQGJN75MwbykYNw)
 - [2015](https://www.youtube.com/channel/UCgxzjK6GuOHVKR_08TT4hJQ) 
 - [2014](https://www.youtube.com/user/PyCon2014)
-- 
 
 ### PyCon countries
 
