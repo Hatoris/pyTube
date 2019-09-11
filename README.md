@@ -22,7 +22,8 @@ List of Youtubers and playlist about python. Each link refer to channel or playl
 - [CS dojo](https://www.youtube.com/playlist?list=PLBZBJbE_rGRWeh5mIBhD-hhDwSEDxogDg)
 - [Derek Banas](https://www.youtube.com/playlist?list=PLGLfVvz_LVvTn3cK5e6LjhgGiSeVlIRwt) 
 - [telusko](https://www.youtube.com/playlist?list=PLsyeobzWxl7poL9JTVyndKe62ieoN-MZ3) 
-- [codebasics](https://www.youtube.com/channel/UCh9nVJoWXmFb7sLApWGcLPQ) 
+- [codebasics](https://www.youtube.com/channel/UCh9nVJoWXmFb7sLApWGcLPQ)
+- [Live Python](https://www.youtube.com/channel/UCRwRIpYnYiiXbwE7wChJ6SQ)
 
 ## Youtube channels that gathering videos :
 
@@ -33,8 +34,9 @@ List of Youtubers and playlist about python. Each link refer to channel or playl
 
 ### PyCon
 
+- [2019](https://www.youtube.com/channel/UCxs2IIVXaEHHA4BtTiWZ2mQ)
 - [2018](https://www.youtube.com/channel/UCsX05-2sVSH7Nx3zuk3NYuQ) 
- - [2017](https://www.youtube.com/channel/UCrJhliKNQ8g0qoE_zvL8eVg)
+- [2017](https://www.youtube.com/channel/UCrJhliKNQ8g0qoE_zvL8eVg)
 - [2016](https://www.youtube.com/channel/UCwTD5zJbsQGJN75MwbykYNw)
 - [2015](https://www.youtube.com/channel/UCgxzjK6GuOHVKR_08TT4hJQ) 
 - [2014](https://www.youtube.com/user/PyCon2014)
