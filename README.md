@@ -11,6 +11,7 @@ List of Youtubers and playlist about python. Each link refer to channel or playl
 ## For absolute beginners :
 
 - [socrastica](https://www.youtube.com/playlist?list=PLi01XoE8jYohWFPpC17Z-wWhPOSuh8Er-)
+- [Microsoft](https://www.youtube.com/playlist?list=PLlrxD0HtieHhS8VzuMCfQD4uJ9yne1mE6)
 
 ## Youtubers with great tutos :
 
@@ -43,9 +44,10 @@ List of Youtubers and playlist about python. Each link refer to channel or playl
 
 ### PyCon countries
 
-- [Australia](https://www.youtube.com/user/PyConAU) 
+- [Australia](https://www.youtube.com/user/PyConAU)
+- [Balkan](https://www.youtube.com/channel/UC4Zfal_sduHM2sIT5Mm9cJA)
 - [Canada](https://www.youtube.com/channel/UCclkPrurwUP_ajqi3vDTNDg)
-- [Balkan](https://www.youtube.com/channel/UC4Zfal_sduHM2sIT5Mm9cJA) 
+- [Europe](https://www.youtube.com/user/PythonItalia)
 - [Israel](https://www.youtube.com/channel/UC-SbPEAZ4Ik2cowdR_Wyfag) 
 - [Italia](https://www.youtube.com/user/pyconitalia) 
 - [Japan](https://www.youtube.com/user/PyConJP) 
