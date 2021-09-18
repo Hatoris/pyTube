@@ -2,11 +2,11 @@
 
 # Why 
 
-I have seen more than hundreds hours of YouTube video on python I wanted to share my curated list. Also, YouTube video can be a good starting point when exploring notions or simply learning python.
+I have seen more than hundreds of hours of YouTube videos on python I wanted to share my curated list. Also, YouTube videos can be a good starting point when exploring notions or simply learning python.
 
 # List 
 
-List of Youtubers and playlist about python. Each link refer to channel or playlist depending if the entire channel is dedicated to python or not.
+List of Youtubers and playlist about python. Each link refers to a channel or playlist, depending on if the entire channel is dedicated to python or not.
 
 ## For absolute beginners :
 
@@ -84,12 +84,12 @@ List of Youtubers and playlist about python. Each link refer to channel or playl
 
 # How to update this list? 
 
-- make a pull request with your favorite channel and Playlist you want to share 
+- Make a pull request with your favorite channels and playlists you want to share 
 
 # Conflict of interests
 
-The author declare no conflict of interest with all informations linked above.
+The author declares no conflict of interest with all information linked above.
 
 # Disclaimers
 
-This list is based on my own experience, some great Youtubers or channels may missing. 
+This list is based on my own experience; some great Youtubers or channels may be missing.
