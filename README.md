@@ -25,6 +25,8 @@ List of Youtubers and playlist about python. Each link refers to a channel or pl
 - [telusko](https://www.youtube.com/playlist?list=PLsyeobzWxl7poL9JTVyndKe62ieoN-MZ3) 
 - [codebasics](https://www.youtube.com/channel/UCh9nVJoWXmFb7sLApWGcLPQ)
 - [Live Python](https://www.youtube.com/channel/UCRwRIpYnYiiXbwE7wChJ6SQ)
+- [Tech With Tim](https://www.youtube.com/channel/UC4JX40jDee_tINbkjycV4Sg)
+- [ArjanCodes](https://www.youtube.com/c/ArjanCodes)
 
 ## Youtube channels that gathering videos :
 
