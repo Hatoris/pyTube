@@ -37,6 +37,8 @@ List of Youtubers and playlist about python. Each link refers to a channel or pl
 
 ### PyCon
 
+- [2021](https://www.youtube.com/watch?v=z_hm5oX7ZlE&list=PL2Uw4_HvXqvYk1Y5P8kryoyd83L_0Uk5K)
+- [2020](https://www.youtube.com/watch?v=UYpnyUyzpSY&list=PL2Uw4_HvXqvbpFquYIE57BEAqkQWk-iFg)
 - [2019](https://www.youtube.com/channel/UCxs2IIVXaEHHA4BtTiWZ2mQ)
 - [2018](https://www.youtube.com/channel/UCsX05-2sVSH7Nx3zuk3NYuQ) 
 - [2017](https://www.youtube.com/channel/UCrJhliKNQ8g0qoE_zvL8eVg)
@@ -60,6 +62,7 @@ List of Youtubers and playlist about python. Each link refers to a channel or pl
 - [Sweden](https://www.youtube.com/channel/UCH_2cuWzFMyCPvm75lJJ6wg) 
 - [Taiwan](https://www.youtube.com/channel/UCHLnNgRnfGYDzPCCH8qGbQw) 
 - [UK](https://www.youtube.com/channel/UChA9XP_feY1-1oSy2L7acog)
+- [US](https://www.youtube.com/c/PyConUS)
 - [Ukraine](https://www.youtube.com/channel/UCJ2lwx-pNVF_EoWlHAmNNtQ)
 
 
