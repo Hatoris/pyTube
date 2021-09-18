@@ -85,7 +85,7 @@ List of Youtubers and playlist about python. Each link refers to a channel or pl
 - Internet (Flask, Django) 
 - Security 
 - Git and version control tools
--... 
+- ... 
 
 # How to update this list? 
 
